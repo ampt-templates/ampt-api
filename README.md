@@ -3,7 +3,7 @@
         <h1>Ampt API Template</h1>
     </div>
     <p align="center">
-        <img src="https://raw.githubusercontent.com/ampt-templates/templates-manifest/main/images/ampt-api.svg" alt="ampt-logo" width="200"/>
+        <img src="https://ampt.dev/public/templates/ampt-api.svg" alt="ampt-logo" width="200"/>
     </p>
 </p>
 
