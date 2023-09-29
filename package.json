@@ -9,7 +9,7 @@
     "start": "ampt"
   },
   "dependencies": {
-    "@ampt/api": "latest",
+    "@ampt/api": "^0.0.1-beta.10",
     "nanoid": "^4.0.1"
   },
   "ampt": {
